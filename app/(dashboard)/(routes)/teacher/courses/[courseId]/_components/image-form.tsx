@@ -72,7 +72,7 @@ export const ImageForm = ({
                     <ImageIcon className="h-10 w-10 text-slate-500" />
                 </div>
             ) : (
-                <div className="relative z-0 aspect-video mt-2">
+                <div className="relative aspect-video mt-2">
                     <Image
                        alt="Upload"
                        fill
